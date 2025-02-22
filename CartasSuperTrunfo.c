@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main() {
 
     char estado[2]; // Letra do estado
