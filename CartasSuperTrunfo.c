@@ -33,6 +33,7 @@ int main() {
     scanf("%d", &pnturistico);
 
     //Exibindo os dados Carta A
+    printf("Carta 1: \n");
     printf("Estado: %s\n", estado);
     printf("Código da cidade: %s\n", codigo);
     printf("Cidade: %s\n", cidade);
@@ -64,6 +65,7 @@ int main() {
     scanf("%d", &pnturistico);
 
     //Exibindo os dados Carta B
+    printf("Carta 2: \n");
     printf("Estado: %s\n", estado);
     printf("Código da cidade: %s\n", codigo);
     printf("Cidade: %s\n", cidade);
